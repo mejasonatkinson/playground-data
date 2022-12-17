@@ -1,0 +1,540 @@
+{
+    "cost": 39.99,
+    "frequency": "monthly",
+    "workouts": [
+        {
+            "date": "13.05.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7lkm"
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "12:23", 
+                    "distance": "2000m"
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:06", 
+                    "distance": "1.7km"
+                }
+            ]
+        },
+        {
+            "date": "18.05.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:03", 
+                    "distance": "2.6km" 
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2km"
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                }
+            ]
+        },
+        {
+            "date": "20.05.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2km"
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:07", 
+                    "distance": "0.7km"
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "13:15", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:42", 
+                    "distance": "1.4km"
+                }
+            ]
+        },
+        {
+            "date": "25.05.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:01", 
+                    "distance": "2.3km"
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:19", 
+                    "distance": "1.7km"
+                }
+            ]
+        },
+        {
+            "date": "27.05.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "08.06.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "10.06.2022", 
+            "activities": [
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "15.06.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "22.06.2022", 
+            "activities": [
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "27.06.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "06.07.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "01.08.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "08.08.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "31.08.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "09.09.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "10.09.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "15.10.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "09.11.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "11.11.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "14.11.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "19.11.2022", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "21.11.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "02.12.2022", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "treadmill", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "rowing", 
+                    "duration": "", 
+                    "distance": ""
+                }, 
+                {
+                    "activity": "x-trainer", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
+        },
+        {
+            "date": "05.12.2022", 
+            "activities": [
+                {
+                    "activity": "", 
+                    "lengths": 22
+                }
+            ]
+        },
+        {
+            "date": "11.12.2022", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        }
+    ]
+}
+
