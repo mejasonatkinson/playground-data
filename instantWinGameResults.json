@@ -1,0 +1,44 @@
+[
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "14-Dec-2022",
+        "cost": 5,
+        "win": true,
+        "prize": 7
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "07-Dec-2022",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "30-Nov-2022",
+        "cost": 5,
+        "win": true,
+        "prize": 5
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "23-Nov-2022",
+        "cost": 5,
+        "win": true,
+        "prize": 5
+    },
+    {
+        "gameName": "£25 Million Cash Bonanza",
+        "date": "16-Nov-2022",
+        "cost": 5,
+        "win": true,
+        "prize": 5
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "08-Nov-2022",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "date": "30-Dec-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "23-Dec-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "16-Dec-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "09-Dec-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "02-Dec-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "25-Nov-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "18-Nov-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "date": "11-Nov-2022",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    }
+]
