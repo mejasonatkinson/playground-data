@@ -1,2 +1,3 @@
-# playground-data
-A place to sort data which I can use, to play and learn from
+# Data
+
+A place to store data which I can use, to play and learn from
