@@ -535,6 +535,15 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "18.12.2022", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
         }
     ]
 }
