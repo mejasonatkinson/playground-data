@@ -1,5 +1,12 @@
 [
     {
+        "gameName": "Merry Millions Green",
+        "date": "21-Dec-2022",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
         "gameName": "Seven Times Lucky Purple",
         "date": "14-Dec-2022",
         "cost": 5,
