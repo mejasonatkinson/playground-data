@@ -549,9 +549,24 @@
             "date": "22.12.2022", 
             "activities": [
                 {
-                    "activity": "", 
-                    "duration": "", 
-                    "distance": ""
+                    "activity": "cycling", 
+                    "duration": "10:20", 
+                    "distance": "2.4km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2.0km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "NA", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 }
             ]
         }
