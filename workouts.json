@@ -544,6 +544,16 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "22.12.2022", 
+            "activities": [
+                {
+                    "activity": "", 
+                    "duration": "", 
+                    "distance": ""
+                }
+            ]
         }
     ]
 }
