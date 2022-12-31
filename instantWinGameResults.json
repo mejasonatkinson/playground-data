@@ -1,5 +1,12 @@
 [
     {
+        "gameName": "",
+        "date": "04-Jan-2023",
+        "cost": 0,
+        "win": false,
+        "prize": 0
+    },
+    {
         "gameName": "Seven Times Lucky Purple",
         "date": "29-Dec-2022",
         "cost": 5,
