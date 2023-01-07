@@ -578,7 +578,41 @@
                     "sets": 5
                 }
             ]
-        }
+        },
+        {
+            "date": "07.01.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:05", 
+                    "distance": "2.2km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:35", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.8km"
+                }
+            ]
+        },
+        // {
+        //     "date": "07.01.2023", 
+        //     "activities": [
+        //         {
+        //             "activity": "squash", 
+        //             "sets": 5
+        //         }
+        //     ]
+        // }
     ]
 }
 
