@@ -604,15 +604,24 @@
                 }
             ]
         },
-        // {
-        //     "date": "07.01.2023", 
-        //     "activities": [
-        //         {
-        //             "activity": "squash", 
-        //             "sets": 5
-        //         }
-        //     ]
-        // }
+        {
+            "date": "08.01.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
+        {
+            "date": "09.01.2023", 
+            "activities": [
+                {
+                    "activity": "swimming", 
+                    "lengths": 16
+                }
+            ]
+        }
     ]
 }
 
