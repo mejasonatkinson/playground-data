@@ -621,6 +621,40 @@
                     "lengths": 16
                 }
             ]
+        },
+        {
+            "date": "14.01.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:02", 
+                    "distance": "2.2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:42", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:14", 
+                    "distance": "0.7km"
+                }
+            ]
+        },
+        {
+            "date": "15.01.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
         }
     ]
 }
