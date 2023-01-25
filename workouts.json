@@ -655,6 +655,15 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "20.01.2023", 
+            "activities": [
+                {
+                    "activity": "swimming", 
+                    "lengths": 16
+                }
+            ]
         }
     ]
 }
