@@ -664,6 +664,15 @@
                     "lengths": 16
                 }
             ]
+        },
+        {
+            "date": "29.01.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
         }
     ]
 }
