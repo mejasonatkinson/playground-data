@@ -673,6 +673,35 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "31.01.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
+        {
+            "date": "02.02.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:02", 
+                    "distance": "2.1km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2km"
+                }
+            ]
         }
     ]
 }
