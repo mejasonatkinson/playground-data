@@ -1,5 +1,11 @@
 [
     {
+        "date": "03-Feb-2023",
+        "cost": 2.5,
+        "win": false,
+        "prize": 0
+    },
+    {
         "date": "27-Jan-2023",
         "cost": 2.5,
         "win": false,

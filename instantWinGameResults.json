@@ -1,5 +1,12 @@
 [
     {
+        "gameName": "£25 Million Cash Bonanza",
+        "date": "01-Feb-2023",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
         "gameName": "Seven Times Lucky Purple",
         "date": "25-Jan-2023",
         "cost": 5,
