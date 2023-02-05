@@ -693,6 +693,31 @@
                 },
                 {
                     "activity": "cycling", 
+                    "duration": "10:01", 
+                    "distance": "1.8km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:40", 
+                    "distance": "2000m"
+                }
+            ]
+        },
+        {
+            "date": "04.02.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "cycling", 
                     "duration": "10:02", 
                     "distance": "2.1km"
                 },
@@ -702,7 +727,16 @@
                     "distance": "2km"
                 }
             ]
-        }
+        },
+        {
+            "date": "05.02.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
     ]
 }
 
