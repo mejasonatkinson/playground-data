@@ -761,6 +761,15 @@
                     "distance": "2000m"
                 }
             ]
+        },
+        {
+            "date": "12.02.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
         }
     ]
 }
