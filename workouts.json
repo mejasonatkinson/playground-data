@@ -770,6 +770,40 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "16.02.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:19", 
+                    "distance": "2.3km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:01", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "12:50", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2.0km"
+                }
+            ]
+        },
+        {
+            "date": "18.02.2023", 
+            "activities": [
+                {
+                    "activity": "Golf"
+                     
+                }
+            ]
         }
     ]
 }
