@@ -1,6 +1,20 @@
 [
     {
         "gameName": "Seven Times Lucky Purple",
+        "date": "08-Mar-2023",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
+        "date": "01-Mar-2023",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
+        "gameName": "Seven Times Lucky Purple",
         "date": "22-Feb-2023",
         "cost": 5,
         "win": false,
