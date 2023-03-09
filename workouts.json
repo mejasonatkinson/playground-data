@@ -891,7 +891,75 @@
                     "activity": "cycling", 
                     "duration": "10:00", 
                     "distance": "2.2km"
+                }
+            ]
+        },
+        {
+            "date": "02.03.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.1km"
                 },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:21", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                }
+            ]
+        },
+        {
+            "date": "04.03.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "12:00", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:03", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.4km"
+                }
+            ]
+        },
+        {
+            "date": "05.03.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
+        {
+            "date": "06.03.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
             ]
         }
     ]
