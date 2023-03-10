@@ -961,6 +961,31 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "10.03.2023", 
+            "activities": [
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:08", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:02", 
+                    "distance": "2.0km"
+                }
+            ]
         }
     ]
 }
