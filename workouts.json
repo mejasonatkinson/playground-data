@@ -986,6 +986,15 @@
                     "distance": "2.0km"
                 }
             ]
+        },
+        {
+            "date": "12.03.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
         }
     ]
 }
