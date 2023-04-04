@@ -990,24 +990,24 @@
             "date": "11.03.2023", 
             "activities": [
                 {
-                    "activity": "treadmill", 
-                    "duration": "", 
-                    "distance": "0.8km"
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.9km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "", 
+                    "duration": "12:42", 
                     "distance": "2000m"
                 },
                 {
-                    "activity": "x-trainer", 
-                    "duration": "", 
-                    "distance": "km"
+                    "activity": "treadmill", 
+                    "duration": "10:02", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "cycling", 
-                    "duration": "", 
-                    "distance": "2.0km"
+                    "duration": "10:00", 
+                    "distance": "2.1km"
                 }
             ]
         },
@@ -1025,48 +1025,49 @@
             "activities": [
                 {
                     "activity": "treadmill", 
-                    "duration": "", 
-                    "distance": "0.8km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "", 
+                    "duration": "12:50", 
                     "distance": "2000m"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "", 
-                    "distance": "km"
+                    "duration": "10:00", 
+                    "distance": "1.9km"
                 },
                 {
                     "activity": "cycling", 
-                    "duration": "", 
-                    "distance": "2.0km"
+                    "duration": "10:01", 
+                    "distance": "2.3km"
                 }
             ]
         },
         {
             "date": "23.03.2023", 
             "activities": [
+
                 {
-                    "activity": "treadmill", 
-                    "duration": "", 
-                    "distance": "0.8km"
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2.0km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "", 
+                    "duration": "13:19", 
                     "distance": "2000m"
                 },
                 {
-                    "activity": "x-trainer", 
-                    "duration": "", 
-                    "distance": "km"
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "cycling", 
-                    "duration": "", 
-                    "distance": "2.0km"
+                    "duration": "10:00", 
+                    "distance": "2.4m"
                 }
             ]
         },
@@ -1086,24 +1087,24 @@
             "date": "30.03.2023", 
             "activities": [
                 {
-                    "activity": "treadmill", 
-                    "duration": "", 
-                    "distance": "0.8km"
+                    "activity": "x-trainer", 
+                    "duration": "10:07", 
+                    "distance": "1.8km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "", 
+                    "duration": "12:45", 
                     "distance": "2000m"
                 },
                 {
-                    "activity": "x-trainer", 
-                    "duration": "", 
-                    "distance": "km"
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
                 },
                 {
                     "activity": "cycling", 
-                    "duration": "", 
-                    "distance": "2.0km"
+                    "duration": "10:00", 
+                    "distance": "2.3km"
                 }
             ]
         },
