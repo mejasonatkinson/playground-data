@@ -1,6 +1,13 @@
 [
     {
         "gameName": "Full of £1,000s",
+        "date": "12-Apr-2023",
+        "cost": 5,
+        "win": true,
+        "prize": 5
+    },
+    {
+        "gameName": "Full of £1,000s",
         "date": "05-Apr-2023",
         "cost": 5,
         "win": false,
