@@ -1134,7 +1134,7 @@
             ]
         },
         {
-            "date": "02.02.2023", 
+            "date": "02.04.2023", 
             "activities": [
                 {
                     "activity": "cycling", 
@@ -1160,6 +1160,65 @@
                     "activity": "rowing", 
                     "duration": "14:39", 
                     "distance": "2000m"
+                }
+            ]
+        },
+        {
+            "date": "06.04.2023", 
+            "activities": [
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:02", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:53", 
+                    "distance": "2000m"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "11:34", 
+                    "distance": "2.6km"
+                }
+            ]
+        },
+        {
+            "date": "07.04.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
+        {
+            "date": "13.04.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.2km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.5km"
                 }
             ]
         }
