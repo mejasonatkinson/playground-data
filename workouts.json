@@ -1349,7 +1349,27 @@
                     "duration": "10:00", 
                     "distance": "0.7km"
                 }
-
+            ]
+        },
+        {
+            "date": "17.05.2023",
+            "gym": false, 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.1km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "20:01", 
+                    "distance": "3.8km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                }
             ]
         }
     ]
