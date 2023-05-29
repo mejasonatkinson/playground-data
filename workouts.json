@@ -1326,8 +1326,8 @@
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "", 
-                    "distance": "km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 }
             ]
         },
@@ -1369,6 +1369,56 @@
                     "activity": "treadmill", 
                     "duration": "10:00", 
                     "distance": "0.7km"
+                }
+            ]
+        },
+        {
+            "date": "25.05.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:02", 
+                    "distance": "2.3km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "12:00", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:00", 
+                    "distance": "1.9km"
+                }
+            ]
+        },
+        {
+            "date": "27.05.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:00", 
+                    "distance": "2.2km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "12:33", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:04", 
+                    "distance": "1.9km"
                 }
             ]
         }
