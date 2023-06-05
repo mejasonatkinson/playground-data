@@ -1421,6 +1421,59 @@
                     "distance": "1.9km"
                 }
             ]
+        },
+
+
+        {
+            "date": "01.06.2023", 
+            "activities": [
+                {
+                    "activity": "rowing", 
+                    "duration": "14:18", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:03", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00:", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:05", 
+                    "distance": "2.3km"
+                }
+            ]
+        },
+        {
+            "date": "03.06.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:07", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:07", 
+                    "distance": "2.1km"
+                },
+
+                {
+                    "activity": "rowing", 
+                    "duration": "13:44", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:04", 
+                    "distance": "1.9km"
+                }
+            ]
         }
     ]
 }
