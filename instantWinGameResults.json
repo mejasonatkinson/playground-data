@@ -1,5 +1,12 @@
 [
     {
+        "gameName": "Mega Cashword Deluxe Red",
+        "date": "31-May-2023",
+        "cost": 5,
+        "win": false,
+        "prize": 0
+    },
+    {
         "gameName": "Full of £1,000s",
         "date": "24-May-2023",
         "cost": 5,
