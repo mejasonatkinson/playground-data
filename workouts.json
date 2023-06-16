@@ -1535,6 +1535,56 @@
                     "sets": 5
                 }
             ]
+        },
+        {
+            "date": "15.06.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "10:03", 
+                    "distance": "2.1km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:03", 
+                    "distance": "1.9km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:28", 
+                    "distance": "2km"
+                }
+            ]
+        },
+        {
+            "date": "17.06.2023", 
+            "activities": [
+                {
+                    "activity": "treadmill", 
+                    "duration": "00:00", 
+                    "distance": "0.0km"
+                },
+                {
+                    "activity": "cycling", 
+                    "duration": "00:00", 
+                    "distance": "0.0km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "00:00", 
+                    "distance": "0km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "00:00", 
+                    "distance": "0.0km"
+                }
+            ]
         }
     ]
 }
