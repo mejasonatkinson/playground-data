@@ -1565,24 +1565,24 @@
             "date": "17.06.2023", 
             "activities": [
                 {
-                    "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
-                },
-                {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
-                },
-                {
-                    "activity": "rowing", 
-                    "duration": "00:00", 
-                    "distance": "0km"
+                    "duration": "10:00", 
+                    "distance": "2.2km"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "2.0km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:04", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 }
             ]
         }
