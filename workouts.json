@@ -1585,7 +1585,16 @@
                     "distance": "0.7km"
                 }
             ]
-        }
+        },
+        {
+            "date": "18.06.2023", 
+            "activities": [
+                {
+                    "activity": "squash", 
+                    "sets": 5
+                }
+            ]
+        },
     ]
 }
 
