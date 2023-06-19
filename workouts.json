@@ -1591,10 +1591,10 @@
             "activities": [
                 {
                     "activity": "squash", 
-                    "sets": 5
+                    "sets": 0
                 }
             ]
-        },
+        }
     ]
 }
 
