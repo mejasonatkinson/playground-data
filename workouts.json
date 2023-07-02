@@ -1594,6 +1594,31 @@
                     "sets": 0
                 }
             ]
+        },
+        {
+            "date": "29.06.2023", 
+            "activities": [
+                {
+                    "activity": "cycling", 
+                    "duration": "10:06", 
+                    "distance": "2.1km"
+                },
+                {
+                    "activity": "treadmill", 
+                    "duration": "10:28", 
+                    "distance": "0.8km"
+                },
+                {
+                    "activity": "rowing", 
+                    "duration": "13:53", 
+                    "distance": "2km"
+                },
+                {
+                    "activity": "x-trainer", 
+                    "duration": "10:01", 
+                    "distance": "1.8km"
+                }
+            ]
         }
     ]
 }
