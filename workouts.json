@@ -1701,23 +1701,23 @@
             "activities": [
                 {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:06", 
+                    "distance": "2.0km"
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "00:00", 
+                    "duration": "14:32", 
                     "distance": "2km"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:07", 
+                    "distance": "1.7km"
                 }
             ]
         },
@@ -1726,13 +1726,13 @@
             "activities": [
                 {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:08", 
+                    "distance": "2.2km"
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
@@ -1741,8 +1741,8 @@
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "1.08m"
                 }
             ]
         },
