@@ -1626,23 +1626,23 @@
             "activities": [
                 {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "2.2km"
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "00:00", 
+                    "duration": "13:06", 
                     "distance": "2km"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "1.9km"
                 }
             ]
         },
@@ -1651,23 +1651,23 @@
             "activities": [
                 {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:03", 
+                    "distance": "2.2km"
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "00:00", 
+                    "duration": "13:04", 
                     "distance": "2km"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "1.9km"
                 }
             ]
         },
@@ -1676,23 +1676,23 @@
             "activities": [
                 {
                     "activity": "cycling", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "2.2km"
                 },
                 {
                     "activity": "treadmill", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "0.7km"
                 },
                 {
                     "activity": "rowing", 
-                    "duration": "00:00", 
+                    "duration": "13:55", 
                     "distance": "2km"
                 },
                 {
                     "activity": "x-trainer", 
-                    "duration": "00:00", 
-                    "distance": "0.0km"
+                    "duration": "10:00", 
+                    "distance": "1.9km"
                 }
             ]
         },
